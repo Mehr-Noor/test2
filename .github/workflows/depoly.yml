@@ -1,0 +1,5 @@
+spec:
+  template:
+    metadata:
+      annotations:
+        date: "2025-04-03"
